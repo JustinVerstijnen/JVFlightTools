@@ -21,6 +21,13 @@ const weatherTools = [
     badge: "KNMI"
   },
   {
+    title: "Windy",
+    icon: "📡",
+    description: "Great overview of wind flows and pressure.",
+    url: "https://www.windy.com/nl/-Menu/menu?52.272,5.325,9,i:pressure",
+    badge: "Windy"
+  },
+  {
     title: "Buienradar",
     icon: "🌧️",
     description: "Radar and local weather view for Teuge.",
